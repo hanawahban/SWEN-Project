@@ -1,5 +1,5 @@
 # SWEN-Project
-## 🧠 Project Description
+## Project Description
 
 **Unipool** is a university-based carpooling application designed to connect students who share similar routes, offering a more convenient, cost-effective, and sustainable mode of transportation.  
 The app allows students to either **offer rides as drivers** or **book available rides as passengers**, all within the same academic community.
@@ -8,7 +8,7 @@ Unipool focuses on creating a **safe**, **user-friendly**, and **socially connec
 
 ---
 
-### 🎯 Purpose and Goals
+### Purpose and Goals
 
 The main goal of Unipool is to **reduce transportation costs and environmental impact** while **enhancing social interaction** among university students.
 
@@ -20,9 +20,9 @@ By enabling shared rides, the app aims to:
 
 ---
 
-### 🧩 Core Features
+### Core Features
 
-#### 🚘 For Drivers
+#### For Drivers
 - Accept nearby ride requests easily.  
 - View rider profiles and ratings before accepting.  
 - Communicate directly with riders through in-app chat.  
@@ -31,7 +31,7 @@ By enabling shared rides, the app aims to:
 - Earn ratings and feedback from riders.  
 - Access incentives and rewards for consistent performance.  
 
-#### 🧍 For Riders
+#### For Riders
 - Find and book nearby available drivers.  
 - View driver ratings, car types, and details before booking.  
 - Chat directly with drivers to confirm pickup details.  
@@ -44,7 +44,7 @@ By enabling shared rides, the app aims to:
 
 ---
 
-### ⚙️ System Overview
+### System Overview
 
 Unipool’s architecture is centered around **two primary user roles — Driver and Rider** — both interacting through a shared backend that manages:
 - Authentication  
@@ -59,7 +59,7 @@ Unipool’s architecture is centered around **two primary user roles — Driver 
 
 ---
 
-### 🧩 Design and Planning Artifacts
+### Design and Planning Artifacts
 
 The Unipool project followed an **agile approach** with clear documentation and iterative design improvements.
 
@@ -73,7 +73,7 @@ These deliverables guided the identification of system requirements, interaction
 
 ---
 
-### 🧱 Development Approach
+### Development Approach
 
 The project was managed using **Agile methodologies**, emphasizing collaboration, iteration, and continuous improvement.
 
@@ -88,7 +88,7 @@ Currently, the project has completed the **requirements analysis and initial sys
 ---
 
 
-### 🧾 Summary
+### Summary
 
 Unipool represents an early-stage design and planning effort for a student carpooling platform built with an agile mindset.  
 It combines functionality, usability, and sustainability goals into a single project that supports both community connection and environmental responsibility.
